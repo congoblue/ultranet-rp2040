@@ -1,0 +1,4 @@
+cmakefiles/*
+!cmakefiles/ultranet.dir/
+.cmake/
+pico-sdk/
